@@ -1,0 +1,11 @@
+build/
+dist/
+tmp/
+*.log
+*.out
+*.test
+*.exe
+*.dll
+*.so
+*.dylib
+
